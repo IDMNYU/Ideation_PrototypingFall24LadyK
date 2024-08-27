@@ -22,3 +22,12 @@ Flow Chart for constant i/o --> FlowCharts_ConstantIO.md
 
       <li>Mood Boards</li>
           <li>Research methods</li>
+
+
+           <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
+      <li> Investing in The Future Exercise </li>
+   <li> Feedback Exercises </li></td>
+
+    <li> Discuss Research & UMOD </li>
+        <li> Discuss Concept Maps</li>
+        <li> In class exercises</li>

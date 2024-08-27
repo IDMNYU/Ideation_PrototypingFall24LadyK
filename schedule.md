@@ -123,44 +123,48 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td><tr>
-<td valign="top">wk 5a<p>Feb 21</td>
+<td valign="top">wk 5<p>Oct 2 & Oct 7</td>
     <td valign="top"> 
         <li>Stages of a Creative Process</li>
+        <li> 5 whys & mapping</li>
+        <li>Problem Statements & Challenge Statements</li>
         <li>Discuss Homework</li>
-          
+        <li> Discuss Time Management: actionable tasks</li>
+        <li>Discuss Affinity News</li> 
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-   <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+        <li>TBA</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
         </td>
-        <tr><td valign="top"> wk 5b Feb 26 & <br> wk 6a Feb 28</td>
+        <tr><td valign="top"> wk 6 <p> Oct 9 & TUESDAY Oct 15 </td>
             <td>  
                 <li>Discuss Homework</li>
-        <li> Discuss Research + User Studies & The Pocket Universal Methods of Design (TPUMoD) </li> 
-      <li> Investing in The Future Exercise </li>
-   <li> Feedback Exercises </li><</td>
-      <td><li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+                <li>Time Management:Kanban</li>
+            </td>
+            <td valign="top">
+        <li>Read: </li>
+            <li> Show Your Work </li>
+      <li>Do:</li>
+      <li>TBA</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-            <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
             <li><a href ="Time_Management_System.md">Time Management System</a></li>
             </tr></td>
         <tr>
-<td valign="top">wk 6b March 4 & <br> wk 7a March 6</td>
+<td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
     <td valign="top"> 
-        <li> Discuss Research & UMOD </li>
-        <li> Discuss Concept Maps</li>
-        <li> In class exercises</li>
+         <li> Discuss Time Management: Time Inventory Part 1</li>
+       
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> <li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li>
+       
+         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
         </td> 
 </tr>
