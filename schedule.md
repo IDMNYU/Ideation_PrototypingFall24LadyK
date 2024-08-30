@@ -58,6 +58,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Uploading Images to the Blog & Blog Recap</li>
  <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
  <li> Time Management Exercises</li>
+ <li> <a href = "affinityProjectResearch.md"> Affinity Research Project </a></li>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>Every one has a process </li>
         <li>Cabinets of Curiosities & Collecting </li>
@@ -72,8 +73,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
+        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li><a href ="Time_Management_System.md">Time Management System: Eat that frog. Write a reflection and post under "Time Management."</a></li>
+        <li> Survey the newsletters and sites found <a href = "affinityProjectResearchSources.md"> here. </a> Identify 8 that interest you. Post the 8 and a short reflection: Which do you like the most? Which are you unsure of? Why, etc. </li>
     </ul>
     </td>
 </tr>
@@ -97,11 +100,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do: </li>
       <ul>
+        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
     <li> Create a <a href = "FlowCharts_ConstantIO.md">flow chart regarding your Constant I/O project and write a reflection of how it went and where you are at. </a></li>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li> Read several days worth of your News Source. Post blurbs of your 5 most interesting or curious (to you). Write a short reflection.</li>
+    <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
     <li> Write a reflection about The Creative Brain. Also include your previous thoughts on what Creativity is as well as your current thoughts and why. Post your reflection of The Creative Brain and thoughts about Creativity under "reflections" on your Process site</li>
+    <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
 </ul>
 </td>
 </tr>
@@ -118,9 +123,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <ul><li>Divergent & Convergent thinking exercises with repsonses. Post under "Reflections".<li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+    <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
+    <a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
+     <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
     </ul>
         </td><tr>
 <td valign="top">wk 5<p>Oct 2 & Oct 7</td>
@@ -130,15 +138,16 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Problem Statements & Challenge Statements</li>
         <li>Discuss Homework</li>
         <li> Discuss Time Management: actionable tasks</li>
-        <li>Discuss Affinity News</li> 
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-        <li>TBA</li>
+        <li>Work on <a href = "Midterm.md">Midterms </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
+     <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
         </td>
         <tr><td valign="top"> wk 6 <p> Oct 9 & TUESDAY Oct 15 </td>
             <td>  
@@ -149,66 +158,60 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-      <li>TBA</li>
+     <li>Work on <a href = "Midterm.md">Midterms </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
             <li><a href ="Time_Management_System.md">Time Management System</a></li>
+            <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
             </tr></td>
         <tr>
 <td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
     <td valign="top"> 
-         <li> Discuss Time Management: Time Inventory Part 1</li>
-       
+         <li> Discuss Time Management: Time Inventory/Audit Part 1</li>
+         <li> TBA </li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-       
+       <li>Work on <a href = "Midterm.md">Midterms </a></li>
+       <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
+            </tr></td>
         </td> 
 </tr>
 <tr>
-       <td valign="top">wk 7b March 11 & <br> wk 8a March 13</td> 
+       <td valign="top">wk 8 Oct 23 & 28</td> 
          <td>
-        <li>Timelines </li>
-        <li> Personas </li>
-        <li> User Studies </li>
+            <li> TBA </li>
+              <li>Discuss: Self Assessment</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> FINISH: Show Your Work </li>
     <li>Do:</li>
-        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
+         <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li> Post your <a href = "SketchBook_wk6.md">sketchbook</a> work to your Process site under Sketchbook</li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due TBA</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
         </td> </tr>
         <tr>
-        <td valign="top"><p> March 18-22</p></td><td>SPRING</td><td>SPRING BREAK</td></tr>
-        <tr>
-        <td valign="top">wk 8b March 25 & <br> wk9a March 27</td>
+        <td valign="top">wk 9 Oct 30 & Nov 4</td>
         <td>
-        <li>Discuss: Homework </li>
-        <li>Stakeholders</li>
-        <li>Artifact</li>
-        <li> SCAMPER Technique</li>
+        <li>TBA</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Read: Don't Read This Book </li>
     <li>Do:</li>
-        <li>Read the Letters From The Last Cohort (midterms) found in Slack and write a reflection regarding what you have taken from them regarding your own work.</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li><b> Due April 7th: </b>Post your <a href = "SketchBook_wk_7.md">sketchbook</a> work to your Process site under Sketchbook</li>
         </td></tr>
                 <tr>
-        <td valign="top">wk 9b April 1 & <br> wk 10a April 3</p></td>
+        <td valign="top">wk 10 Nov 6 & Nov 11</p></td>
         <td>
         <li>Discuss: Homework </li>
-        <li>Discuss: Self Assessment</li>
         <li>In-class exercises - Future Object</li>
         <li> Introduce and Discuss Final Presentations </li>
     </td>
@@ -219,14 +222,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do:</li>
     <ul>
-        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-        <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due April 14th</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
+        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 10b April 8 & <br> wk 11a April 10</td>
+        <td valign="top">wk 11 Nov 13 & 18</td>
         <td>
         <li>Discuss: Homework </li>
         <li>In-class exercises </li>
@@ -243,12 +245,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare Constant Input/Constant Ouput Presentation</li> 
-          <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due April 14th</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester. </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
         </td></tr>                       
 <tr>
-        <td valign="top">wk 11b April 15 & <br> wk 12a April 17 </td>
+        <td valign="top">wk 12 Nov 20 & 25th </td>
         <td>
             <li> In-class exercises </li>
         <li>Constant Input/Output Presentations next week</li>
@@ -265,7 +266,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr> 
         <tr>
-        <td valign="top">wk 12b April 22 & <br> wk 13a April 24</td>
+        <td valign="top">wk 13 Nov 27 & Dec 2</td>
         <td>
              <li>Constant Input/Output Presentations</li>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
@@ -282,35 +283,17 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 13b April 29 & wk 14a May 1</td>
+        <td valign="top">wk 14 Dec 4 & Dec 9</td>
         <td>
-        <li>Final Presentation Dry Run/Dress Rehearsal</li>
-          <li>Final Future Presentations</li>
+            <li>Final Future Presentations</li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> Dec 16 10:00 AM EST</a><strong></li>
     </ul>
         </td></tr>
-        <tr>
-        <td valign="top">wk 14b May 6</td>
-        <td>
-        <li>Final Future Presentations</li>
-    </td>
-     <td valign="top">
-    <li>Do:</li>
-    <ul>
-        <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> May 10 16:00 EST</a><strong></li>
-    </ul>
-        </td></tr>       
-
 </table>
 
 

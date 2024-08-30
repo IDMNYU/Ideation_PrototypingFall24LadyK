@@ -203,14 +203,13 @@ Incomplete or unsatisfactory work (lacking depth and notable development strides
 
 ##### Quantitative Grading Breakdown
 
-*   10% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
+*   5% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5% Weekly news reflection & Time management reflection
 *   10% [Constant Input/Output](constant_input_output.md)
-*   15% [Process Website](process_website.md), including all written reflections for all posts
-*   10% [Midterm Project](midterm_project.md)
-*   30% [Future Project Development](Future.md) 
-*   15% Project Final Presentation + Story
+*   25% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, News Reflections, Article reflections
+*   20% [Midterm Project](Midterm.md)
+*   20% [Future Project Development](Future.md) 
+*   15% Project Final Presentation + Process
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
