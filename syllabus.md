@@ -27,9 +27,9 @@ Prerequisite: None
 
 #### [Maker Center Training](http://makerspace.engineering.nyu.edu/training-and-reservations/)
 
-#### [Slack workspace]() The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
+#### [Slack workspace](https://ideationproto-guf4117.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
-[**Link to join Slack**]()
+[**Link to join Slack**](https://join.slack.com/t/slack-ltu1368/shared_invite/zt-2pt222r5y-rZzwHjZabUv9D9YWmiHwkg)
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\

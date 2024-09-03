@@ -29,8 +29,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     </td>
     <td valign="top">
-    <li>Join Slack via this <a href="">link </a></li> 
+    <li>Join Slack via this <a href="https://join.slack.com/t/slack-ltu1368/shared_invite/zt-2pt222r5y-rZzwHjZabUv9D9YWmiHwkg">link </a></li> 
     <li> <a href = "Sketchbook.md"> Get a sketchbook and the 3-6 drawing tools (see the list)</a></li>
+    <li> <a href = "https://forms.gle/EGhNCUtBxTUdfhhS9">Fill out the class survey </a></li>
     <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a>, <a href = "https://www.amazon.com/Dont-Read-This-Book-Management/dp/9063694237/ref=sr_1_1?s=books&ie=UTF8&qid=1548300839&sr=1-1&keywords=Don%27t+Read+This+Book%3A+Time+Management+for+Creative+People+by+Donald+Roos"> Don't Read This Book: Time Management for Creative People by Donald Roos </a>
     Start reading "Show Your Work"</li>
  <li>Read:</li>
@@ -73,6 +74,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
+        <li> If you are new this week, make sure to do the homework outlined in week 1 (above).</li>
         <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li><a href ="Time_Management_System.md">Time Management System: Eat that frog. Write a reflection and post under "Time Management."</a></li>
