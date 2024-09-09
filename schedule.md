@@ -32,7 +32,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Join Slack via this <a href="https://join.slack.com/t/slack-ltu1368/shared_invite/zt-2pt222r5y-rZzwHjZabUv9D9YWmiHwkg">link </a></li> 
     <li> <a href = "Sketchbook.md"> Get a sketchbook and the 3-6 drawing tools (see the list)</a></li>
     <li> <a href = "https://forms.gle/EGhNCUtBxTUdfhhS9">Fill out the class survey </a></li>
-    <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a>, <a href = "https://www.amazon.com/Dont-Read-This-Book-Management/dp/9063694237/ref=sr_1_1?s=books&ie=UTF8&qid=1548300839&sr=1-1&keywords=Don%27t+Read+This+Book%3A+Time+Management+for+Creative+People+by+Donald+Roos"> Don't Read This Book: Time Management for Creative People by Donald Roos </a>
+    <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a>
     Start reading "Show Your Work"</li>
  <li>Read:</li>
  <ul><li> <li><a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a></li>
