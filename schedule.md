@@ -43,7 +43,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <ul>
     <li> Create a list of 20 different things you currently like to do. Post on your Process site under" Constant I/O project.</li>
     <li> Write a reflection about each of the following: Tell us about several things you liked to do as a kid. What fascinated you as a kid? What are the things you daydream about? What do you love to do? Post on your Process site under "Constant I/O project". </li>
-    <li> Do the Private Eye Game and post the results on your Process site under "Constant I/O project"</li>
+    <li> <a href = "PrivateEye.md">Do the Private Eye Game </a> and post the results on your Process site under "Constant I/O project"</li>
     <li> Post a robust list of many things you'd like to possible do for your constant I/O project. Post on Process site under "Constant I/O Project."</li>
     <li>Do the Parallel Thinking: 6 hats with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</li>
      </ul>
