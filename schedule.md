@@ -45,7 +45,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Write a reflection about each of the following: Tell us about several things you liked to do as a kid. What fascinated you as a kid? What are the things you daydream about? What do you love to do? Post on your Process site under "Constant I/O project". </li>
     <li> <a href = "PrivateEye.md">Do the Private Eye Game </a> and post the results on your Process site under "Constant I/O project"</li>
     <li> Post a robust list of many things you'd like to possible do for your constant I/O project. Post on Process site under "Constant I/O Project."</li>
-    <li>Do the Parallel Thinking: 6 hats with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</li>
+    <li><strike>Do the Parallel Thinking: 6 hats with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</strike></li>
      </ul>
     </td>
 </tr>
@@ -76,6 +76,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
         <li> If you are new this week, make sure to do the homework outlined in week 1 (above).</li>
         <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
+        <li><strike>Do the Parallel Thinking: 6 hats with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</strike></li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li><a href ="Time_Management_System.md">Time Management System: Eat that frog. Write a reflection and post under "Time Management."</a></li>
         <li> Survey the newsletters and sites found <a href = "affinityProjectResearchSources.md"> here. </a> Identify 8 that interest you. Post the 8 and a short reflection: Which do you like the most? Which are you unsure of? Why, etc. </li>
