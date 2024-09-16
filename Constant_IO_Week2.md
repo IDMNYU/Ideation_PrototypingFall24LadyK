@@ -16,21 +16,19 @@ The goal of this assignment is
 * what resources you need
 
 
-0. If your idea is too general, then do a round of mind mapping. If you've changed your mind, do another round of mind mapping and post images to your site. Write a short reflection about this process and where you are at. what questions do you have?
+0. Do a round of mind mapping. If you've changed your mind, do another round of mind mapping and post images to your site. Write a short reflection about this process and where you are at. what questions do you have?
 
-1. Once you have a solid direction/idea, do *The Bug Exercise* to go deeper or another *mind map*
+1. Once you have a solid direction/idea or several ideas, ask yourself the 5 Why's for each idea. Each Why is asked about the answer to the previous why. This is to help you get to the root of your desires/passion. See the card for more info/reference.
 
-2. Do the *5 Why's* to get to the root of your desires/passion. See the card for more info/reference.
+2. Use the question How Might We....? To explore this topic more. Think: Divergent thinking. Create another mind map or list.
 
-3. Explore how you will fail at this project. Be specific. Create a list. Group/categorize your listings under various _themes_ that are commonly shared.
+3. What is motivating you about this?
 
-4. Map these themes on an *Assumption Map*(See the specific card). Copy the graphic to your sketchbook. Plot all your themes on this Assumptions Map. Turn your riskiest and most unknown assumptions into a *Hypothesis Statement* in order to start the process of validating them.
+4. What are your assumptions about this? Tell us about them and list them.
 
-5. Use the exercise *How Might We...* to flip your issues/fears/failures to rephrase a problem into a question. Do this for all of your greatest/riskiest fears & assumptions.
+5. Write a paragraph or more reflection responding to each of these questions. 
 
-6. Write a paragraph or more reflection responding to each of these questions. 
-
-7. Write what your next steps are. What is it exactly that you are going to do? How are you going to start? What SPECIFC resources do you need? Where are those resources? Gather and secure the resources you need to work.
+7. Write a reflection. Where are you at now? Tell me about the process of this exercise?
 
 Post to your all evidence of the above exercises to your process (each numbered step) website, under constant input/output tab. Write a reflection of how the exercises went, and where you are at now. What questions do you have?
 
