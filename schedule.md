@@ -80,7 +80,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project</li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li><a href ="Time_Management_System.md">Time Management System: Actionable Steps. Write a reflection and post under "Time Management."</a></li>
-        <li> Survey the newsletters and sites found <a href = "affinityProjectResearchSources.md"> here. </a> Identify 8 that interest you. Post the 8 and a short reflection: Which do you like the most? Which are you unsure of? Why, etc. </li>
+        <li> Survey the newsletters and sites found <a href = "affinityResearchProjectSources.md"> here. </a> Identify 8 that interest you. Post the 8 and a short reflection: Which do you like the most? Which are you unsure of? Why, etc. </li>
     </ul>
     </td>
 </tr>
