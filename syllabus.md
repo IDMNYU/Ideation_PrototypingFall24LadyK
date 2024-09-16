@@ -27,6 +27,8 @@ Prerequisite: None
 
 #### [Maker Center Training](http://makerspace.engineering.nyu.edu/training-and-reservations/)
 
+#### [IDM Tech Training](https://brightspace.nyu.edu/d2l/home/379585)
+
 #### [Slack workspace](https://ideationproto-guf4117.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
 [**Link to join Slack**](https://join.slack.com/t/slack-ltu1368/shared_invite/zt-2pt222r5y-rZzwHjZabUv9D9YWmiHwkg)
