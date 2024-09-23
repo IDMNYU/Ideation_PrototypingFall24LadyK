@@ -92,7 +92,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Discuss: </li>
     <ul>
         <li> Homework and posts; Course expectations</li>
-        <li><a href = "Time_Management_System.md"> Time Management System Assignment: task management </a></li>
+        <li><a href = "Time_Management_System.md"> Time Management System Assignment: task management matrix & time blocking </a></li>
     </ul>     
 </td>  
     <td valign="top">
@@ -108,7 +108,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
-    <li> Write a reflection about The Creative Brain. Also include your previous thoughts on what Creativity is as well as your current thoughts and why. Post your reflection of The Creative Brain and thoughts about Creativity under "reflections" on your Process site</li>
     <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
 </ul>
 </td>
