@@ -102,13 +102,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do: </li>
       <ul>
-        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
+        <strike><li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> </strike>
          <li>Do <a href = "parallelThinking_6Hats.md" >the Parallel Thinking: 6 hats </a> with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</li>
   <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
-    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href= "constant_input_output.md"> Write a reflection of your process thus far and where you are at with your Constant Input/Constant Ouput</li> </a>
+    <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
-    <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
+    <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
 </ul>
 </td>
 </tr>
@@ -130,7 +130,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
-     <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
+     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
 <td valign="top">wk 5<p>Oct 2 & Oct 7</td>
