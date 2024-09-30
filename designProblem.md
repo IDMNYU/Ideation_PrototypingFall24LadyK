@@ -1,6 +1,8 @@
 ### DM-UY 1143 C Ideation and Prototyping
 ##### Fall 2024 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person
 
+### Due October 23rd to your Process site and in class that day
+
 # Design Problem Prototype
 
 0. Over the course of the first 5-6 weeks of the semester, note any design problems you experience in your life. Document them with pictures and explainations of the situation. Document your progress and post this with a reflection of each to your Process site under "Design Problem Prototype."

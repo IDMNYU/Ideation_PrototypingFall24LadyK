@@ -5,6 +5,8 @@
 
 20% of your final grade
 
+### Due October 23rd to your Process site and in class that day
+
 The midterm project is a combination of two separate (and at this point, unrelated) parts.
 
 * [Affinity Project Research](affinityProjectResearch.md)
