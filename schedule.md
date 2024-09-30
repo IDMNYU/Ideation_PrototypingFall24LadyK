@@ -118,6 +118,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Divergent Thinking + Exercises </li>
          <li> Convergent Thinking + Exercises </li>
       <li> Screening: Everything is a Remix </li>
+      <li> <a href = "Midterm.md">Midterm</a>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -128,7 +129,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
     <a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
@@ -147,7 +148,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
         <li>Work on <a href = "Midterm.md">Midterms </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
      <li> Get [NYU MakerSpace Orientation and Training](https://makerspace.engineering.nyu.edu/training-and-reservations/) or [IDM Maker Space orientation and Training](https://wp.nyu.edu/idmtech/)</li>
         </td>
@@ -162,7 +163,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <li>Do:</li>
      <li>Work on <a href = "Midterm.md">Midterms </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-            <li><a href ="Time_Management_System.md">Time Management System</a></li>
+            <li><a href ="Time_Management_System.md">Time Management System: Kanban</a></li>
             <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
             </tr></td>
         <tr>
@@ -178,7 +179,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <li>Work on <a href = "Midterm.md">Midterms </a></li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
             </tr></td>
         </td> 
 </tr>
@@ -194,7 +195,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
          <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Time Inventory</a></li>
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due TBA</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
         </td> </tr>
         <tr>
@@ -208,7 +209,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Unsccheduled time</a></li>
         </td></tr>
                 <tr>
         <td valign="top">wk 10 Nov 6 & Nov 11</p></td>
@@ -226,7 +227,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Unscheduled Time</a></li>
     </ul>
         </td></tr>
         <tr>
@@ -247,7 +248,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare Constant Input/Constant Ouput Presentation</li> 
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Energy Management</a></li>
     </ul>
         </td></tr>                       
 <tr>
@@ -264,7 +265,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Time Surfing</a></li>
     </ul>
         </td></tr> 
         <tr>
