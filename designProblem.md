@@ -19,6 +19,8 @@ Identify your most creative and innovative solution and bring it to fruition by 
 
 4. Create a scale module of your solution, using scrap materials: items from your recycling, cardboard boxes, popsicle sticks, string, paper, newspaper, plastic containers, etc. Use a hot glue gun, knots, tape or homemade glue to adhere things.
 
+Think low-fi. Use what's around you. [Example 1.](https://www.instagram.com/reel/CqDbroBOppu/?igshid=MTc4MmM1YmI2Ng%3D%3D)
+
 The goal of this stage is to think through your design. Are there things you observed in the process? Tell us about them. Include pictures and a reflection. Are there changes you would make? Tell us about them.
 
 5. Create a higher resolution physical iteration of your solution. Visit the IDM Maker's Space and Tandon's Maker Space. Consider 3D printing, machine sewing, laser cutting, etc.
