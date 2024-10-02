@@ -55,7 +55,9 @@ Use Divergent and Convergent thinking tools in each step! Show evidence of your 
 
 I am looking for you to broaden your research techniques to throw your nets wide! Think: science publications, movies, interviews with with professionals and those involved, site visits, etc. 
 
-Use 3 techniques from the Universal Methods of Design in addition to traditional rsearch methods (Journal Articles, Reputable News, Books, THE LIBRARY). Show how you have used these techniques and what they've brought into your project
+Use 3 techniques from The Pocket Universal Methods of Design in addition to traditional rsearch methods (Journal Articles, Reputable News, Books, THE LIBRARY). Show how you have used these techniques and what they've brought into your project
+
+## See the [Affinity Weekly](affinity_Weekly.md) document for the particular assignment breakdowns
 
 
 
