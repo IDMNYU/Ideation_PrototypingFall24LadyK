@@ -147,7 +147,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-        <li>Work on <a href = "Midterm.md">Midterms </a></li>
+        <li>Work on <a href= "Midterm.md">Midterm </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
