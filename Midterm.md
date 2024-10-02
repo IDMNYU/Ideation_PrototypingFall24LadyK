@@ -1,5 +1,5 @@
 ### DM-UY 1143 C Ideation and Prototyping
-##### Fall 2024 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person
+##### Fall 2024 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person 
 
 # Midterm Project
 
