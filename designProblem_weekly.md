@@ -7,6 +7,6 @@
 
 #### Week 4: Identify the problem
 
-0. Tell us about the problem(S) you are interested in for the [physical prototype for the midterm](designProblem.md)
+0. Tell us about the problem(s) you are interested in for the [physical prototype for the midterm](designProblem.md)
 1. Show pictures and sketches.
 2. Write me a reflection telling us about the situation.

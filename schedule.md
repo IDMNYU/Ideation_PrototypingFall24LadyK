@@ -128,7 +128,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Midterm Affinity Project. </a> Begin <a href = "affinity_Weekly.md" >researching it by finding 2 sources and identifying which (3) prompts you are going to use from The Pocket Universal Methods of Design. Post both with a reflection on your process site under "Affinity Project". </a> Have you idenifited any problems you've encountered which you'd like to persue for the prototype? Talk about it and post under "Prototype". Show pictures and sketches.</li>
     <li> Tell me about the <a href = "designProblem.md">design problem </a> you wish to work on for the physical prototype. <a href = "designProblem_weekly.md">Show pictures and sketches. Tell me about the issue. </a></li>
-    <li> Constant Input/Constant Ouput</a>. Start with the beginner <a href = " Constant_IO_wk4.md">brief</a></li>
+    <li> Constant Input/Constant Ouput</a>. Start with the beginner <a href = "Constant_IO_wk4.md">brief</a></li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
     <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + READ (Link) </a></li>
