@@ -131,7 +131,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Constant Input/Constant Ouput</a>. Start with the beginner <a href = " Constant_IO_wk4.md">brief</a></li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
     <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
-    <li> <a href = "affinityProjectResearch.md">Affinity News Research + READ </a></li>
+    <li> <a href = "affinityProjectResearch.md">Affinity News Research + READ (Link) </a></li>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
@@ -147,7 +147,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-        <li>Work on <a href= "Midterm.md">Midterm </a></li>
+        <li>Work on <a href="Midterm.md">Midterm </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
@@ -165,7 +165,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <li>Work on <a href = "Midterm.md">Midterms </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
             <li><a href ="Time_Management_System.md">Time Management System: Kanban</a></li>
-            <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
+            <li> Affinity News Research Read (Links) </a></li>
             </tr></td>
         <tr>
 <td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
