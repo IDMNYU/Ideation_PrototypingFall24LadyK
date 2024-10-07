@@ -9,7 +9,10 @@
 
 #### Week 5: Get more specific & precise with your topic. More Research to understand the probelm
 
-0. Get more specific with your topic. What aspect of your topic do you wish to explore? Brainstorm or mindmap to figure this out. If you are unsure about possibilities, do some research to idenitfy them. Document your process with images, links, and reflections
+0. Get more specific with your topic. What aspect of your topic do you wish to explore? Brainstorm or mindmap to figure this out. If you are unsure about possibilities, do some research to idenitfy them. Document your process with images, links, and reflections.
+	- Identify the WWWWWH (slides) (If you don't know these, do your research on them! Include those are research sources.)
+	- Gather your assumptions (slides)
+	- 5 Whys (slides) to demonstrate your understing of the probelm. (If you don't know these, work to understand them. Use your research to help you get there.)
 
 1. Identify 3-6 traditional resources (visit the library), that help you to understand the scope and different aspects of this issue. Post about each with a short reflectio of their value towards your interests in your project. 
 
