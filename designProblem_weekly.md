@@ -7,9 +7,9 @@
 
 
 #### Week 5: Identify the problem
-0. Demonstrate some research and investigation to show your understanding of the problem beyond your own experiences.
+0. Demonstrate some research and investigation to show your understanding of the problem beyond your own experiences. Gather information from people who also experience this problem.
 
-1. Show divergent thinking in the possibilites of solutions. Does more than one stand out? Let your mind be open and explore many possibilities.
+1. Show divergent thinking in the possibilites of solutions. Does more than one stand out? Let your mind be open and explore many possibilities. Brainstorm and sketch.
 
 2. Document the above and write a reflection of what you've learned and where you might go next.
 
