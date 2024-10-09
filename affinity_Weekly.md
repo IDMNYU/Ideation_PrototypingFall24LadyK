@@ -6,6 +6,18 @@
 ### Due October 23rd to your Process site and in class that day
 
 10% of your Final Grade
+#### Week 6: Concept Map & Stakeholder Maps
+
+0. Develop a concept map which explores the complexity of your issue. Make sure to title the relationship between entities. Note that a concept map is expansive and diverse. Use your sketchbook (but don't be limited by the pages end), a dry erase board, or Mirro. Take pictures, document the process, and share (upload and/or embedd) them with a reflection. What did you realize? Has something been uncovered?
+
+
+1. Develop a StakeHolder map of all the people involved and affected by this problem/issue. These should be individuals at ALL levels, including benefactors, all people that are negative affected, workers, creators, business people, transportation, commerce, supply, etc. Use your sketchbook (but don't be limited by the pages end), a dry erase board, or Mirro. Take pictures, document the process, and share (upload and/or embedd) them with a reflection. What did you realize? Has something been uncovered?
+
+2. Continue to develop your moodboard
+
+3. Continue to develop your timeline of understanding.
+
+
 
 #### Week 5: Get more specific & precise with your topic. More Research to understand the probelm
 
