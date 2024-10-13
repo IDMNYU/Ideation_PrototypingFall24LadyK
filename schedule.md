@@ -114,7 +114,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <td valign="top">wk 4<p>Sept 25 & Sept 30</p></td>
     <td valign="top"> 
-        <li> Review Ideation Tools discussed this far</li>
+        <li> Review Ideation Tools discussed this far</li><li>Time Management: Kanban System</li>
         <li> Divergent Thinking + Exercises </li>
          <li> Convergent Thinking + Exercises </li>
       <li> Screening: Everything is a Remix </li>
@@ -139,7 +139,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
         <li>Stages of a Creative Process</li>
         <li> 5 whys & mapping</li>
-        <li>Problem Statements & Challenge Statements</li>
+        <li><a href ="ConceptMap.md"> Concept Maps</li></a>
         <li>Discuss Homework</li>
         <li> Discuss Time Management: Pomodoro Method</li>
     </td>
@@ -148,7 +148,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
         <li>Work on <a href="Midterm.md">Midterm </a></li> See the 
-        <a href = "affinity_Weekly.md"> Affinity Weekly and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to process for each.
+        <li><a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed for each. </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Read (Links) </a></li>
@@ -157,28 +157,31 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr><td valign="top"> wk 6 <p> Oct 9 & TUESDAY Oct 15 </td>
             <td>  
                 <li>Discuss Homework</li>
-                <li>Time Management:Kanban</li>
+                <li>Time Management:Willpower</li>
+                <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
+                <li>Persona</li>
             </td>
             <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-     <li>Work on <a href = "Midterm.md">Midterms </a></li>
+     <li>Work on <a href = "Midterm.md">Midterms </a>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-            <li><a href ="Time_Management_System.md">Time Management System: Kanban</a></li>
+            <li><a href ="Time_Management_System.md">Time Management System: Willpower</a></li>
             <li> Affinity News Research Read (Links) </a></li>
             </tr></td>
         <tr>
 <td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
     <td valign="top"> 
-         <li> Discuss Time Management: Time Inventory/Audit Part 1</li>
-         <li> TBA </li>
+         <li> Discuss Time Management: Willpower / Time Inventory</li>
+         <li>Problem Statements & Challenge Statements</li> 
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
        <li>Work on <a href = "Midterm.md">Midterms </a></li>
+       See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
@@ -190,6 +193,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <td>
             <li> TBA </li>
               <li>Discuss: Self Assessment</li>
+              <li> Time Management </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -204,6 +208,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9 Oct 30 & Nov 4</td>
         <td>
         <li>TBA</li>
+        <li> Time Management </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -211,7 +216,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System: Unsccheduled time</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Unscheduled time</a></li>
         </td></tr>
                 <tr>
         <td valign="top">wk 10 Nov 6 & Nov 11</p></td>
