@@ -1,15 +1,19 @@
 ### DM-UY 1143 C Ideation and Prototyping
 ##### Fall 2024 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person
 
-### Due October 23rd to your Process site and in class that day
+### Due October 30rd to your Process site and in class that day
 
 # Design Problem Weekly
 
 #### Week 6: Identify the problem
 
-0. Draw sketches of 3 of your top ideas. Is there anything that you notice or have been informed about? If so, what? Please reflect on this and upload your reflections
+0.  Show divergent thinking in the possibilites of solutions. Does more than one stand out? Let your mind be open and explore many possibilities. Brainstorm and sketch. 
 
-1. Gather materials to create low-fi prototypes. What materials do you need? Identify, secure and reflect about the process.
+1. Draw sketches of 3 of your top ideas. Is there anything that you notice or have been informed about? If so, what? Please reflect on this and upload your reflections 
+
+2. Gather materials to create low-fi prototypes. What materials do you need? Identify, secure and reflect about the process.
+
+3. post any and all research, including surveys, questionaires and their responses.
 
 
 #### Week 5: Research and Explore the problem

@@ -14,7 +14,7 @@ Concept maps are a tool to explore all of the aspects of a problem/situation and
 
 Concept Maps allow us to explore many different factors involved. Understanding these relationships and exploring them visually can enhance your understanding of the concept as well as to see opportunities for further exploration.
 
-![Data-Orientated Task](https://rkursem.medium.com/concept-maps-the-hidden-gem-of-personal-knowledge-management-84edc658054a)
+![An example regarding animal ells](https://images.edrawmind.com/templates/cell-concept-map/Animal-Cells-Concept-Map800.png)
 
 You may not know or understand all of the aspects. You may not have them all at once. As such, this is an on-going and evolving document. Work to go deep as well as to be diverse. Annotate your concept map by entitling the relationships between each entry.
 

@@ -158,8 +158,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <td>  
                 <li>Discuss Homework</li>
                 <li>Time Management:Willpower</li>
-                <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
-                <li>Persona</li>
+                <li>Problem Statements & Challenge Statements</li>
             </td>
             <td valign="top">
         <li>Read: </li>
@@ -174,14 +173,15 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
     <td valign="top"> 
          <li> Discuss Time Management: Willpower / Time Inventory</li>
-         <li>Problem Statements & Challenge Statements</li> 
+         <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
+        <li>Persona</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
        <li>Work on <a href = "Midterm.md">Midterms </a></li>
-       See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
+       <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>

@@ -3,19 +3,22 @@
 
 # Affinity Research Project Weekly Brief
 
-### Due October 23rd to your Process site and in class that day
+### Due October 30rd to your Process site and in class that day
 
 10% of your Final Grade
 #### Week 6: Concept Map & Stakeholder Maps
 
+00. Work to create and refine your problem statement considering the research you have conducted thus far. Has your research or process pointed to new aspects that need to be researched? Post your problem statement and reflect on what research needs to be completed.
+
 0. Develop a concept map which explores the complexity of your issue. Make sure to title the relationship between entities. Note that a concept map is expansive and diverse. Use your sketchbook (but don't be limited by the pages end), a dry erase board, or Mirro. Take pictures, document the process, and share (upload and/or embedd) them with a reflection. What did you realize? Has something been uncovered?
 
+1. Given the refinement of your problem statement and concept map, are their new things/realizations/discoveries that need to be researched? Please let us about them and gather a couple new sources on them.
 
-1. Develop a StakeHolder map of all the people involved and affected by this problem/issue. These should be individuals at ALL levels, including benefactors, all people that are negative affected, workers, creators, business people, transportation, commerce, supply, etc. Use your sketchbook (but don't be limited by the pages end), a dry erase board, or Mirro. Take pictures, document the process, and share (upload and/or embedd) them with a reflection. What did you realize? Has something been uncovered?
+2. Continue to develop your moodboard, with respect to your research. Your moodboard should be diverse and informed from your research.
 
-2. Continue to develop your moodboard
+3. Continue to develop your timeline of understanding your *topic* within the context of it's existence/prevalance/happenings/plot. As such gather important research and annotate it.
 
-3. Continue to develop your timeline of understanding.
+4. Did you miss one of last week's exercises (below)? If so, please do it and post it.
 
 
 
