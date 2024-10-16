@@ -23,7 +23,7 @@
 
 
 
-#### Week 6: Concept Map & Probelm Statements
+#### Week 6: Concept Map & Problem Statements
 
 00. Work to create and refine your problem statement considering the research you have conducted thus far. Has your research or process pointed to new aspects that need to be researched? Post your problem statement and reflect on what research needs to be completed.
 
