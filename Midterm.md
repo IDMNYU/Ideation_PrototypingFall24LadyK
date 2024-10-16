@@ -29,6 +29,7 @@ The midterm project is a combination of two separate (and at this point, unrelat
 	- Moodboard (See slides in Slack)
 	- Timeline of the problem/situation/challenge and surrounding events
 	- Personas of 2 people who experience this issue
+	-------------------------
 	- Brainstorm/mindmap/brain dump of your knowledge at this point (I'm expecting to see evidence of the Extended Effort Principle)
 	- Crazy Eights exercise
 	- Bad Idea Brainstorm

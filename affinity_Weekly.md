@@ -6,7 +6,24 @@
 ### Due October 30rd to your Process site and in class that day
 
 10% of your Final Grade
-#### Week 6: Concept Map & Stakeholder Maps
+
+#### Week 7: Stakeholder Maps & Iterating other research documents
+
+1. Develop a Stakeholder map of all the people involved and affected by this problem/issue. These should be individuals at ALL levels, including benefactors, all people that are negative affected, workers, creators, business people, transportation, commerce, supply, etc. Use your sketchbook (but don't be limited by the pages end), a dry erase board, or Mirro. Take pictures, document the process, and share (upload and/or embedd) them with a reflection. What did you realize? Has something been uncovered?
+
+2. Find 2-3 valuable resources to support your latest findings. 
+
+3. Execute your Pocket Universal Methods of Design Research
+
+4. Iterate your Moodboard
+
+5. Iterate your concept map
+
+6. Work on your Timeline of Events for your topic
+
+
+
+#### Week 6: Concept Map & Probelm Statements
 
 00. Work to create and refine your problem statement considering the research you have conducted thus far. Has your research or process pointed to new aspects that need to be researched? Post your problem statement and reflect on what research needs to be completed.
 

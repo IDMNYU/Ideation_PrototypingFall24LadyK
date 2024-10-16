@@ -5,6 +5,14 @@
 
 # Design Problem Weekly
 
+#### Week 7: Research & Low-fi protoype
+
+1. Contine researching
+
+2. Continue prototyping
+
+3. Continue sketching
+
 #### Week 6: Identify the problem
 
 0.  Show divergent thinking in the possibilites of solutions. Does more than one stand out? Let your mind be open and explore many possibilities. Brainstorm and sketch. 
