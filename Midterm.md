@@ -25,7 +25,7 @@ The midterm project is a combination of two separate (and at this point, unrelat
 	- Brainstorming and development of 2-3 techniques from The Pocket Universal Methods of Design (TPUMoD)
 	- Evidence of your work from TPUMoD
 	- [Concept Map](ConceptMap.md)
-	- [Stakeholder Map](StakeholderMaps.md)
+	- [Stakeholder Map](StakeholderMaps.md) and miro boards
 	- Moodboard (See slides in Slack)
 	- Timeline of the problem/situation/challenge and surrounding events
 	- Personas of 2 people who experience this issue
