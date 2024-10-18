@@ -172,7 +172,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
 <td valign="top">wk 7 <p> Wednesday Oct 16 & Monday Oct 21</td>
     <td valign="top"> 
-         <li> Discuss Time Management: Willpower / Time Inventory</li>
+         <li> Discuss Time Management: Willpower Part 2</li>
          <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
         <li>Persona</li>
     </td>
@@ -184,7 +184,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Willpower Part 2</a></li>
             </tr></td>
         </td> 
 </tr>
