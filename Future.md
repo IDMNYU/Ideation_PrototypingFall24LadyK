@@ -9,7 +9,7 @@ For our final project, The Future, you will be creating a speculative design pro
 
 This document stands as an overview of the project. Please refer to the [Future Weekly Briefing](Future_weeklyBrief.md) to see how to develop this project over the subsequent weeks.
 
-Imagine our civilization at least 100 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
+Imagine our civilization at least 100-200 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
 
 ## Part 1: World Development
 Work to develop a future world. **A world that is wildy imaginative. Yet it must be a world that is plausible and probable _in some form_. _Form_ means by some succession of plausible events.** You are creating a world, where, as Hans Vaihinger writes in _The Philosophy of As If_,  "(t)he ideal is a practical fiction". If your world includes things like "magic", you must eventually connect this to research which then makes it plausible.

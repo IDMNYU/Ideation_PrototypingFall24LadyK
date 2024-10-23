@@ -174,7 +174,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
          <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
-        <li>Persona</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -191,9 +190,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
        <td valign="top">wk 8 Oct 23 & 28</td> 
          <td>
-            <li> TBA </li>
+            <li>Storylines + Plots<li>
+            <li>Persona</li>
               <li>Discuss: Self Assessment</li>
-              <li> Time Management </li>
+              <li> Time Management: Eat That Frog </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -208,11 +208,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9 Oct 30 & Nov 4</td>
         <td>
         <li>TBA</li>
-        <li> Time Management </li>
+        <li> Time Management: Time Inventory </li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-            <li> Read: Don't Read This Book </li>
     <li>Do:</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
@@ -226,10 +224,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Introduce and Discuss Final Presentations </li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
@@ -246,10 +240,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Discussion: Final Presentation</li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
@@ -265,10 +255,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Constant Input/Output Presentations next week</li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
@@ -282,10 +268,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
      <td valign="top">
-        <li>Read: </li>
-        <ul>
-            <li> Read: Don't Read This Book </li>
-        </ul>
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
