@@ -189,10 +189,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 8 Oct 23 & 28</td> 
-         <td>
             <li>Storylines + Plots<li>
-            <li>Persona</li>
               <li>Discuss: Self Assessment</li>
+              <li> Futurer Project </li>
               <li> Time Management: Eat That Frog </li>
     </td>
      <td valign="top">
