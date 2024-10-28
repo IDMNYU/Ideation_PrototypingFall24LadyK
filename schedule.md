@@ -199,7 +199,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to wrap up each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
-       <li> Future_weeklyBrief.md </li>
+       <li> <a href = "Future.md" >Future Project Kick Off]</a>. Please see the <a href = "Future_weeklyBrief.md" >Future Weekly Brief </a> as to how to proceed.  </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System: Time Inventory</a></li>
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due TBA</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
