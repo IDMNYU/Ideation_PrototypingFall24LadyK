@@ -153,7 +153,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     <li> <a href = "affinityProjectResearch.md">Affinity News Read (Links) </a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
-        </td>
+        </td></tr>
         <tr><td valign="top"> wk 6 <p> Oct 9 & TUESDAY Oct 15 </td>
             <td>  
                 <li>Discuss Homework</li>
@@ -184,12 +184,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Willpower Part 2</a></li>
-            </tr></td>
         </td> 
 </tr>
 <tr>
        <td valign="top">wk 8 Oct 23 & 28</td> 
-            <li>Storylines + Plots<li>
+          <td>  <li>Storylines + Plots<li>
               <li>Discuss: Self Assessment</li>
               <li> Futurer Project </li>
               <li> Time Management: Eat That Frog </li>
