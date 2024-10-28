@@ -5,6 +5,11 @@
 
 # Design Problem Weekly
 
+#### Week 8: Midterm submission
+
+1. Post evidence of your process, use of exercises and techniques, evidence of divergent thinking, sketches, prototypes and research.
+
+
 #### Week 7: Research & Low-fi protoype
 
 1. Contine researching

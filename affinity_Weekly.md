@@ -3,9 +3,15 @@
 
 # Affinity Research Project Weekly Brief
 
-### Due October 30rd to your Process site and in class that day
+### Due October 30rd to your Process site ~~and in class that day~~
 
 10% of your Final Grade
+
+#### Week 8: Finalize Midterm
+
+1. Post evidence of your process, documenting and reflective on the evolution of your project. See the [midterm brief](MidTermProject.md) for the documents I am looking for from you. I am not looking for a hi-fi version. Instead I am looking for how these tools and techniques have informed you. How have them been iterated upon? What growth and realizations have occured? <--- This is what I am looking for from you. Show me this in your process.
+
+2. See [Future Project](Future_weeklyBrief.md)
 
 #### Week 7: Stakeholder Maps & Iterating other research documents
 

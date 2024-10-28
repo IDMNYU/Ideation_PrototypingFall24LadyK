@@ -4,12 +4,16 @@
 # [Future Project](Future.md) Weekly Brief
 
 
-### Semester Week ? | Week 1: Future Project - Launch
+### Semester Week 8 | Week 1: Future Project - Launch
 
 1. Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project, giving it context, as you are developing a speculative future. Do not skip it. Write a brief reflection and post under reflections (if you have not done so).
 
 
 2. Read over the ENTIRE [Card Sorting Exercise](cardSortingExercise.md). Visualize it. Familiarize your self with it. Brainstorm/mindmap your various cards. Bring your questions to class.
+
+3. Post images of your card sorting exercise and write a reflection summary of where you are at. What questions do you have?
+
+4. Gather 2-3 solid resources
 
 
 ### Semester Week ?? | Week 2: Future Project - Cardsorting, Defining and Supporting

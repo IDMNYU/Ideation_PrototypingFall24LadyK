@@ -190,14 +190,16 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <td valign="top">wk 8 Oct 23 & 28</td> 
           <td>  <li>Storylines + Plots<li>
               <li>Discuss: Self Assessment</li>
-              <li> Futurer Project </li>
-              <li> Time Management: Eat That Frog </li>
+              <li> Future Project </li>
+              <li> Time Management: Time Audit/Inventory (See Week 8 Google Doc</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> FINISH: Show Your Work </li>
     <li>Do:</li>
-         <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
+    <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to wrap up each.</li>
+       <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
+       <li> Future_weeklyBrief.md </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System: Time Inventory</a></li>
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due TBA</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
@@ -205,7 +207,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
         <td valign="top">wk 9 Oct 30 & Nov 4</td>
         <td>
-        <li>TBA</li>
+        <li>Future Project</li>
         <li> Time Management: Time Inventory </li>
     </td>
      <td valign="top">
@@ -213,6 +215,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System: Unscheduled time</a></li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due TBA</strong>. Only do "Self" and "classmates". The others you will do at the end of the semester.</li>
         </td></tr>
                 <tr>
         <td valign="top">wk 10 Nov 6 & Nov 11</p></td>
