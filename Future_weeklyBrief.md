@@ -16,17 +16,18 @@
 4. Gather 2-3 solid resources
 
 
-### Semester Week ?? | Week 2: Future Project - Cardsorting, Defining and Supporting
+### Semester Week 9 | Week 2: Future Project - Cardsorting, Defining and Supporting
 
-1. If you need to, do another round of cardsorting. Document your process
+1. If you need to, do another round of cardsorting. Document your process. Remember to diversify your descriptor cards to speak about this theme across the diversity of your world
 
 2. Do a detailed mind-map of your idea, specifically exploring your theme/idea. What is needed for your theme to happen? What does your idea require? What causes all of these things? what are the results? What are the trickle down effects of your theme/idea?
 
-3. Start a concept map (draft) which explores the causal relations between things in your world. You can even begin creating events.
+3. Gather at least 3 resources in relation to your theme/idea and add these to your annotated bibliography
 
-4. Gather at least 3 resources in relation to your theme/idea and add these to your annotated bibliography
 
-5. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+4. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+
+Goinf Further: Begin a concept map that describes the mechanics of this theme in your world
 
 ---
 
