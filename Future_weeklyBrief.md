@@ -3,6 +3,19 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 9 | Week 2: Future Project - Cardsorting, Defining and Supporting
+
+1. If you need to, do another round of cardsorting. Document your process. Remember to diversify your descriptor cards to speak about this theme across the diversity of your world
+
+2. Do a detailed mind-map of your idea, specifically exploring your theme/idea. What is needed for your theme to happen? What does your idea require? What causes all of these things? what are the results? What are the trickle down effects of your theme/idea?
+
+3.  Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further. 
+
+
+Coming up: Gather at least 3 resources in relation to your theme/idea and add these to your annotated bibliography
+
+Going Further: Begin a concept map that describes the mechanics of this theme in your world
+
 
 ### Semester Week 8 | Week 1: Future Project - Launch
 
@@ -16,18 +29,7 @@
 4. Gather 2-3 solid resources
 
 
-### Semester Week 9 | Week 2: Future Project - Cardsorting, Defining and Supporting
 
-1. If you need to, do another round of cardsorting. Document your process. Remember to diversify your descriptor cards to speak about this theme across the diversity of your world
-
-2. Do a detailed mind-map of your idea, specifically exploring your theme/idea. What is needed for your theme to happen? What does your idea require? What causes all of these things? what are the results? What are the trickle down effects of your theme/idea?
-
-3. Gather at least 3 resources in relation to your theme/idea and add these to your annotated bibliography
-
-
-4. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
-
-Goinf Further: Begin a concept map that describes the mechanics of this theme in your world
 
 ---
 
