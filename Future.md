@@ -32,11 +32,14 @@ You will develop this world and project through the following assignments over t
 * additional Mood Boards and Mind Maps (as needed) <strong>  </strong>
 * Concept Maps       <strong>  </strong>
 * User Personas
-* Future Object/Artifact (low-fidelity 3-D prototype)  <strong>  </strong>
-* Future Object/Artifact (High-fidelity 3-D prototype)<strong> </strong>
-* Flyer/Technical Manual (Low-fi) 
-* Flyer/Technical Manual (High-fi) 
-* Evidence of World Categories Research -  <strong> 5+ sources annotated  </strong>
+* Stakeholders
+* Assumptions List
+* [Problem Statement ideation](ProblemStatements.md)
+* Evidence of your development and research from TPUMoD
+* Future Object/Artifact (low-fidelity 3-D prototype), including brainstorming and ideation  <strong>  </strong> 
+* Future Object/Artifact (High-fidelity 3-D prototype), including brainstorming and ideation<strong> </strong>
+* Timeline of the problem/situation/challenge and surrounding events
+* Evidence of World Aspect Research -  <strong> 5+ sources annotated  </strong>
 * Evidence of Idea Research - <strong> 8+ diverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
 * Storyboard  -  <strong>  </strong>
 

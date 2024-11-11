@@ -3,6 +3,19 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 10 | Week 3: Future Project - Articulating, Supporting, Researching
+
+0. Identify your core idea that you will be investigating in this world. Also articulate the other descriptors and enablers in play in your world.
+
+1. Do mindmaps for each: exploring what they are, what's involved with each, what each requires & needs
+
+2. Begin a concept map for your idea
+
+3. Identify 3-5 specific resources that work to support your core idea and/or descriptors and enablers. Look to find materials that links to your futures, making them possible;
+
+4. Mindmap artifacts from this world.
+
+
 ### Semester Week 9 | Week 2: Future Project - Cardsorting, Defining and Supporting
 
 1. If you need to, do another round of cardsorting. Document your process. Remember to diversify your descriptor cards to speak about this theme across the diversity of your world
