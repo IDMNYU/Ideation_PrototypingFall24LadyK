@@ -3,6 +3,25 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 11 | Week 4: Future Project - Supporting, Researching, Connecting
+
+0. If you haven't, articulate your core idea and various aspects that you are looking at for The Future Project
+
+1. Identify 2-3 (more) resources to help your understanding of these concepts and to spawn other & connecting ideas. Annotate them, as to their use and their content and add them to your Future Project Annotated Bibliography. See Slack #random for an example of an annotation.
+
+2. Add to your Concept Map from your research. Reflect on these additions and tell us about them
+
+3. Add to your Mood Board
+
+4. Brainstorm/Mindmap Ideas for your Future Artifact. Tell us where you are at at the end of this.
+
+5. Start your Stakeholder list of people with reference to your Future World.
+
+6. Upload your work from in the in-class exercises: Sticky Steps and Headlines From the Future. How have these influenced your process and thinking? 
+
+7. Reflection: Where are you at? What are you worried about with reference to this project? What do you need help with?
+
+
 ### Semester Week 10 | Week 3: Future Project - Articulating, Supporting, Researching
 
 0. Identify your core idea that you will be investigating in this world. Also articulate the other descriptors and enablers in play in your world.
