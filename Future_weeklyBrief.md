@@ -3,6 +3,21 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 12 | Week 5: Future Project - Developing, Researching, Connecting
+
+0. Develop your concept/topic/thread that you are exploring through this world that you created. This should be getting more specific and detailed.
+
+1. Identify 2-3 (more) resources to help your understanding of these concepts and to spawn other & connecting ideas. Annotate them, as to their use and their content and add them to your Future Project Annotated Bibliography. See Slack #random for an example of an annotation.
+
+2. Develop your Mood Board
+
+3. Develop your Concept Map
+
+4. Develop your Stakeholders Map
+
+5. Write a reflection summary of where you are at. What do you need help with? What is problematic?
+
+
 ### Semester Week 11 | Week 4: Future Project - Supporting, Researching, Connecting
 
 0. If you haven't, articulate your core idea and various aspects that you are looking at for The Future Project
@@ -13,7 +28,7 @@
 
 3. Add to your Mood Board
 
-4. Brainstorm/Mindmap Ideas for your Future Artifact. Tell us where you are at at the end of this.
+4. Upload the exercises from [class](https://docs.google.com/document/d/1ZLDFTjBLFXp5sJxJS6_HvtLvPDXe_fL1gdhq4eo6NeY/edit?usp=sharing) with regards to your world & topic. Write a reflection on where you are at at the end of this.
 
 5. Start your Stakeholder list of people with reference to your Future World.
 
