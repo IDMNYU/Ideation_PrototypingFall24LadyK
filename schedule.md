@@ -229,7 +229,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System: Unscheduled Time</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Energy Mapping</a></li>
     </ul>
         </td></tr>
         <tr>
