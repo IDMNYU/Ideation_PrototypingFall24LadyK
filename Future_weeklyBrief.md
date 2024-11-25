@@ -5,17 +5,20 @@
 
 ### Semester Week 12 | Week 5: Future Project - Developing, Researching, Connecting
 
+
+00. Finish the exercises from class (Future Business, Future Person, Future Person's Emotions). See the slides in Slack.
+
 0. Develop your concept/topic/thread that you are exploring through this world that you created. This should be getting more specific and detailed.
 
 1. Identify 2-3 (more) resources to help your understanding of these concepts and to spawn other & connecting ideas. Annotate them, as to their use and their content and add them to your Future Project Annotated Bibliography. See Slack #random for an example of an annotation.
 
-2. Develop your Mood Board
+2. Refine your Mood Board
 
-3. Develop your Concept Map
+3. Refine your Concept Map
 
-4. Develop your Stakeholders Map
+4. Refine your Stakeholders Map. [Please look at these examples](https://simplystakeholders.com/stakeholder-mapping/) of alternative layouts. A different layout may be more powerful for you in figuring out/understanding your world
 
-5. Write a reflection summary of where you are at. What do you need help with? What is problematic?
+5. Write a reflection summary of where you are at. What do you need help with? What has developed or changed?
 
 
 ### Semester Week 11 | Week 4: Future Project - Supporting, Researching, Connecting
