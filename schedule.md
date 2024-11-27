@@ -259,7 +259,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System: Time Surfing</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: <strike>Time Surfing</strike></a></li>
     </ul>
         </td></tr> 
         <tr>
