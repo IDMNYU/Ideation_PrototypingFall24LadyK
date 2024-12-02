@@ -35,13 +35,13 @@ You will develop this world and project through the following assignments over t
 * Stakeholders
 * Assumptions List
 * [Problem Statement ideation](ProblemStatements.md)
-* Evidence of your development and research from TPUMoD
+* <strike> Evidence of your development and research from TPUMoD </strike>
 * Future Object/Artifact (low-fidelity 3-D prototype), including brainstorming and ideation  <strong>  </strong> 
 * Future Object/Artifact (High-fidelity 3-D prototype), including brainstorming and ideation<strong> </strong>
 * Timeline of the problem/situation/challenge and surrounding events
 * Evidence of World Research -  <strong>  annotated  </strong>
 * Evidence of Idea Research - <strong> sdiverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
-* Storyboard  -  <strong>  </strong>
+* Storyboard  -  see Slack for links<strong>  </strong>
 
 ____________________________________________________________
 ## Part 3: The final for this course 15% of final grade

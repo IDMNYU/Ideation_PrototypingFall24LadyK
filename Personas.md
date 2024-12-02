@@ -9,7 +9,8 @@ Personas are used often in User Experience Design to help designers focus on dif
 Develop 1 persona for each group. The persona for that group needs to be a symbolic member of that group. If your group is a minor, designated a spokesperson/conservatorship.
 
 
-Each of these persona documents that you are creating should be separate from the previous. Each should be different in the following items listed below. These personas need to have a high-level of polish for a finished product (ie, final presentation is not in a sketch book, or lacking information). Consider the design of the document, so that the information is easy to visually digest. Do not over do the text! The design should be unified across the different personas. These need to be visually appealing documents as you will use them throughout your designs as reference points. 
+Each of these persona documents that you are creating should be separate from the previous. Each should be different in the following items listed below. ~~These personas need to have a high-level of polish for a finished product (ie, final presentation is not in a sketch book, or lacking information). ~~
+Consider the design of the document, so that the information is easy to visually digest. Do not over do the text! The design should be unified across the different personas. These need to be visually appealing documents as you will use them throughout your designs as reference points. 
 
 
 Each should include the following information:
