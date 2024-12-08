@@ -9,7 +9,7 @@
 
 The following is <strong> due May 10th by NOON: </strong>
 <ul>
-<li><a href="future.md">Future Dystopia/Utopia Project Documentation </a>, including the Final Presentation (which is different for every student). This includes the development process, ideation, supporting files and final files. Post a reflection. <br> 
+<li><a href="Future.md">Future Dystopia/Utopia Project Documentation </a>, including the Final Presentation (which is different for every student). This includes the development process, ideation, supporting files and final files. Post a reflection. <br> 
 <br> 
 <li>Direct message me on Slack <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Final Self Assessment as pdf </a> </li>
 <li>Write a letter to the next class or create a 1-2 minute video (.mov, .mp4, etc), giving them advice on how to reach their learning goals and get value out of this course. Send me this document via Slack Direct message </li>
